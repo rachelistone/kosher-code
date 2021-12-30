@@ -504,6 +504,18 @@ module.exports = [
       { url: "AcnJ-gVIWx4" },
     ],
   },
+  
+  {
+    name: "flask",
+    hebrewName: "פלאסק",
+    category: "framework",
+    officialSite: "https://flask.palletsprojects.com/en/2.0.x/",
+    color: "#d4d3d3",
+    videoTutorials: [
+      { url: "Z1RJmh_OqeA" },
+    ],
+  },
+  
   {
     name: "Elementor",
     hebrewName: "אלמנטור",
