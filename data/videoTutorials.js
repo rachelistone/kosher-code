@@ -724,6 +724,7 @@ module.exports = [
     category: "programming language",
     officialSite: "https://www.tensorflow.org/",
     videoTutorials: [
+      { url: "6g4O5UOH304" },
       { url: "DFKHh7_zzJc" },
       { url: "UbMDK4UNtPA" },
       { url: "E8n_k6HNAgs" },
